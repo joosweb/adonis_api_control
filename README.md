@@ -3,6 +3,10 @@
 About
 Small application for the management of buildings, in order to know who enters and who leaves with their respective data such as the date and time, in addition to a black list where the people who cannot enter will be.
 
+The exercise is as follows:
+
+The exercise is the file Exercise.pdf at the root of this repository.
+
 ## Let us begin
 
 
