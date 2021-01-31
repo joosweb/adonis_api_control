@@ -65,7 +65,7 @@ HTTP put /users/1
 with header parameters
 
 key: Authorization
-value: Baerer <youTokenHere>
+value: Bearer <youTokenHere>
 
 whit body parameters:
 
@@ -82,7 +82,7 @@ HTTP post /records
 with header parameters
 
 key: Authorization
-value: Baerer <youTokenHere>
+value: Bearer <youTokenHere>
 
 whit body parameters:
 
