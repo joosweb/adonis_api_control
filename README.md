@@ -44,7 +44,7 @@ HTTP post /users
 with header parameters
 
 key: Authorization
-value: Baerer <youTokenHere>
+value: Bearer <youTokenHere>
 
 whit body parameters:
 
