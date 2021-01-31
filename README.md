@@ -34,7 +34,7 @@ To test the application you can use postman and another that suits you.
 ```js
 HTTP post /login
 
-whit body parameters:
+with body parameters:
 
 email: demo
 password : demo
@@ -50,7 +50,7 @@ with header parameters
 key: Authorization
 value: Bearer <youTokenHere>
 
-whit body parameters:
+with body parameters:
 
 username     
 email        
@@ -67,7 +67,7 @@ with header parameters
 key: Authorization
 value: Bearer <youTokenHere>
 
-whit body parameters:
+with body parameters:
 
 username     
 email        
@@ -84,7 +84,7 @@ with header parameters
 key: Authorization
 value: Bearer <youTokenHere>
 
-whit body parameters:
+with body parameters:
 
   fk_user_id       (from 1 to 10)
   fk_building_id   (from 1 to 5)
